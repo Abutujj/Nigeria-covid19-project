@@ -8,7 +8,7 @@ this project is to analyse and derive an insight of total cases,total death ,mor
 confirmed cases,confirmed death cases in Nigeria.
 
 ## **_Disclaimer_**:
-All dataset do not represent any organisation but just a dummy 
+All dataset and report do not represent any organisation but just a dummy 
 dataset for practice.
 
 ## Problem statement
