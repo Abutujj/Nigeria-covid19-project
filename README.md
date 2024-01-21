@@ -1,10 +1,10 @@
-# Nigeria-covid19-Analysis
+# Nigeria covid19-Analysis
 
 ![](https://github.com/Abutujj/Nigeria-covid19-project/blob/main/covid-19%20image.png)
 
 ## Introduction
-This is a power bi dashboard project on the analysis of  **Nigeria Covid-19**.
-this project is to analyse and derive an insight of total cases,total death ,mortality rate,
+This is a power bi dashboard project on the analysis of  **Covid-19 in Nigeria**.
+This project is to analyse and derive an insight of total cases,total death ,mortality rate,
 confirmed cases,confirmed death cases in Nigeria.
 
 ## **_Disclaimer_**:
